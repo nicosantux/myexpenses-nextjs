@@ -1,0 +1,41 @@
+@font-face {
+  font-family: "Nunito";
+  src: url("/fonts/nunito-regular.woff2") format("woff2");
+  font-display: "optional";
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Nunito";
+  src: url("/fonts/nunito-semibold.woff2") format("woff2");
+  font-display: "optional";
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Nunito";
+  src: url("/fonts/nunito-extrabold.woff2") format("woff2");
+  font-display: "optional";
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/inter-regular.woff2") format("woff2");
+  font-display: "optional";
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/inter-semibold.woff2") format("woff2");
+  font-display: "optional";
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/inter-extrabold.woff2") format("woff2");
+  font-display: "optional";
+  font-weight: 800;
+}
